@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "title": "Goosebumps",
+      "description": "Suspense horror and thriller Its a Good story to watch",
+      "id": 3,
+      "cotegory": "Thriller Story"
+    },
+    {
+      "title": "Money Heist",
+      "description": "Its an story of a professor using his tactics to make a heist in the Bank Of Spain",
+      "id": 4,
+      "cotegory": "Story"
+    },
+    {
+      "title": "Theory of Life",
+      "description": "According to this theory, through a series of chemical reactions around 4.2 billion years ago, life emerged in water on primitive earth from chemicals, thus called the biochemical theory of origin of life. It is often referred to as the modern synthetic theory of origin of life.",
+      "id": 5,
+      "cotegory": "Story"
+    },
+    {
+      "title": "Science",
+      "description": "Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe. Science may be as old as the human species, and some of the earliest archeological evidence for scientific reasoning is tens of thousands of years old",
+      "cotegory": "Science",
+      "id": 6
+    }
+  ]
+}
